@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "transaction_name": "AppStore",
+      "value": "9.99",
+      "service": "shopping",
+      "data": "31.03.2020 - 15:28",
+      "type": "2"
+    },
+    {
+      "id": "2",
+      "transaction_name": "Pagamento do Mês",
+      "value": " 5500.89",
+      "service": "salary",
+      "data": "31.03.2020 - 15:28",
+      "type": "1"
+    },
+    {
+      "id": "3",
+      "transaction_name": "Magnetis",
+      "value": "890.90",
+      "service": "investment",
+      "data": "31.03.2020 - 15:28",
+      "type": "1"
+    },
+    {
+      "transaction_name": "CashBack",
+      "replaceComma": " 15.20",
+      "service": "cashback",
+      "type": "1",
+      "id": "GnkQ21U"
+    },
+    {
+      "transaction_name": "luz",
+      "value": "285.90",
+      "service": "bill",
+      "type": "1",
+      "id": "-QPhryo"
+    },
+    {
+      "transaction_name": "Netflix",
+      "value": " 15.80",
+      "service": "recreation",
+      "type": "2",
+      "id": "wXSKi_J"
+    },
+    {
+      "transaction_name": "academia",
+      "value": " 90.00",
+      "service": "health",
+      "type": "2",
+      "id": "P81vOak"
+    }
+  ]
+}
